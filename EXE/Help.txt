@@ -1,0 +1,2 @@
+Capture des donnees avec M1 --> dataset/train/0---> Z (collect-data_m1.py)
+train_alphabet.py   ---> dataset/train/0 --> 
